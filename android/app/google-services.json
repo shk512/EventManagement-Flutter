@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823612330924",
+    "project_id": "marquee-58316",
+    "storage_bucket": "marquee-58316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823612330924:android:1b507a2c5586d42cc8e009",
+        "android_client_info": {
+          "package_name": "com.example.event_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823612330924-3dai6gb7j8q84oqshp16cbo41aefdl08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVprS7Sui6Sa-vpHuUpBPNYt89ZDaXRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823612330924-3dai6gb7j8q84oqshp16cbo41aefdl08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
